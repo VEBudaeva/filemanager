@@ -1,0 +1,10 @@
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\obj\Debug\файловы менеджер.csprojAssemblyReference.cache
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\obj\Debug\файловы_менеджер.Form_manager.resources
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\obj\Debug\файловы_менеджер.Properties.Resources.resources
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\obj\Debug\файловы менеджер.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\obj\Debug\файловы менеджер.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\bin\Debug\файловы менеджер.exe.config
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\bin\Debug\файловы менеджер.exe
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\bin\Debug\файловы менеджер.pdb
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\obj\Debug\файловы менеджер.exe
+C:\Users\valer\source\repos\файловы менеджер\файловы менеджер\obj\Debug\файловы менеджер.pdb
